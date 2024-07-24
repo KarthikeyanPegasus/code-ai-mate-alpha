@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8c7e9d3-f722-4edb-9747-94f2753b279a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/codectx_ai/cloner/cloner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codectx_ai/embeddings/embed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codectx_ai/embeddings/utils/CodeSplitter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codectx_ai/embeddings/utils/RateLimitter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codectx_ai/llm/chat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codectx_ai/llm/llm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codectx_ai/llm/question.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codectx_ai/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codectx_ai/repo-list.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2jUnoTDDqCggzZAYnpb9MEllWRt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.codectx_ai.executor": "Run",
+    "Python.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.google.cloudcode.ide_session_index": "20240724_0000",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/karthikarthi/Desktop/code-ai-mate-alpha",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/codectx_ai" />
+      <recent name="$PROJECT_DIR$/codectx_ai/cloner" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="codectx_ai" type="PythonConfigurationType" factoryName="Python">
+      <module name="code-ai-mate-alpha" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="ES_API_KEY" value="bDBNQTJaQUJaTnppbDk4QTYyN0M6ZnNGV09heDRTc0tQU2NZR2h4S2x4UQ==" />
+        <env name="ES_CLOUD_ID" value="c2d6c9dbe50e4a9698743aaee8f336d5:dXMtY2VudHJhbDEuZ2NwLmNsb3VkLmVzLmlvJGU2N2QxMGYzMDI3YzQ4ODc4NjZlM2Y1ZTZkYzU0OTRhJDcyMjkyNzhlZmUwNzRlZTViMzI4ODM1NmZmNTE5Mzll" />
+        <env name="ES_COLLECTION_NAME" value="codectx_ai" />
+        <env name="ES_INDEX_NAME" value="codectx_ai" />
+        <env name="GOOGLE_API_KEY" value="AIzaSyCJM7D25uzGTL4WD90xKzapSh5xd560CZY" />
+        <env name="OPENAI_API_KEY" value="sk-proj-GuHXSBg8bJpiFEOdoemNT3BlbkFJcmnmnWAdhoDn4WzT08j4" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="/opt/anaconda3" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/codectx_ai/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8c7e9d3-f722-4edb-9747-94f2753b279a" name="Changes" comment="" />
+      <created>1721450698946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721450698946</updated>
+      <workItem from="1721450700026" duration="24376000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/code_ai_mate_alpha$main.coverage" NAME="main Coverage Results" MODIFIED="1721712416531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codectx_ai" />
+    <SUITE FILE_PATH="coverage/code_ai_mate_alpha$codectx_ai.coverage" NAME="codectx_ai Coverage Results" MODIFIED="1721830047254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
